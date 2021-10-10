@@ -2,7 +2,7 @@
 PP-LCNet的Pytorch实现
 
 
-以为PP-LCNet为backbone实现YoloV5
+以PP-LCNet为backbone实现YoloV5
 
 
 欢迎关注我们的公众号一起交流：
